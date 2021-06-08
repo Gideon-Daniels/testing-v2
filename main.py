@@ -2,7 +2,7 @@
 
 # we are testing our actual user requirements
 
-class MyMiniCalculator:
+class MyMiniCalculator():
     def add(self, a, b):
         return a + b
 
